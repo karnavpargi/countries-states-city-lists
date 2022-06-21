@@ -1,0 +1,494 @@
+{
+    "cities": [
+        {
+            "id": 1,
+            "name": "Ahmedabad",
+            "prefix": "ADI",
+            "fk_state_id": 12,
+            "is_district": true,
+            "is_township": true,
+            "fk_district_id": 1,
+            "is_blocked": false
+        },
+        {
+            "id": 2,
+            "name": "Amreli",
+            "prefix": "AMR",
+            "fk_state_id": 12,
+            "is_district": true,
+            "is_township": true,
+            "fk_district_id": 2,
+            "is_blocked": false
+        },
+        {
+            "id": 3,
+            "name": "Anand",
+            "prefix": "ANND",
+            "fk_state_id": 12,
+            "is_district": true,
+            "is_township": true,
+            "fk_district_id": 3,
+            "is_blocked": false
+        },
+        {
+            "id": 4,
+            "name": "Aravalli-Modasa",
+            "prefix": "ARV",
+            "fk_state_id": 12,
+            "is_district": true,
+            "is_township": true,
+            "fk_district_id": 4,
+            "is_blocked": false
+        },
+        {
+            "id": 5,
+            "name": "Banaskantha-Palanpur",
+            "prefix": "PNU",
+            "fk_state_id": 12,
+            "is_district": true,
+            "is_township": true,
+            "fk_district_id": 5,
+            "is_blocked": false
+        },
+        {
+            "id": 6,
+            "name": "Botad",
+            "prefix": "BOT",
+            "fk_state_id": 12,
+            "is_district": true,
+            "is_township": true,
+            "fk_district_id": 6,
+            "is_blocked": false
+        },
+        {
+            "id": 7,
+            "name": "Bharuch",
+            "prefix": "BH",
+            "fk_state_id": 12,
+            "is_district": true,
+            "is_township": true,
+            "fk_district_id": 7,
+            "is_blocked": false
+        },
+        {
+            "id": 8,
+            "name": "Bhavnagar",
+            "prefix": "BHA",
+            "fk_state_id": 12,
+            "is_district": true,
+            "is_township": true,
+            "fk_district_id": 8,
+            "is_blocked": false
+        },
+        {
+            "id": 9,
+            "name": "Chhota Udaipur",
+            "prefix": "CHU",
+            "fk_state_id": 12,
+            "is_district": true,
+            "is_township": true,
+            "fk_district_id": 9,
+            "is_blocked": false
+        },
+        {
+            "id": 10,
+            "name": "Dahod",
+            "prefix": "DHD",
+            "fk_state_id": 12,
+            "is_district": true,
+            "is_township": true,
+            "fk_district_id": 10,
+            "is_blocked": false
+        },
+        {
+            "id": 11,
+            "name": "Devbhoomi Dwarka-Khambhalia",
+            "prefix": "DWD",
+            "fk_state_id": 12,
+            "is_district": true,
+            "is_township": 11,
+            "fk_district_id": null,
+            "is_blocked": false
+        },
+        {
+            "id": 12,
+            "name": "Gandhinagar",
+            "prefix": "GND",
+            "fk_state_id": 12,
+            "is_district": true,
+            "is_township": true,
+            "fk_district_id": 12,
+            "is_blocked": false
+        },
+        {
+            "id": 13,
+            "name": "Gir Somnath-Veraval",
+            "prefix": "GIR",
+            "fk_state_id": 12,
+            "is_district": true,
+            "is_township": true,
+            "fk_district_id": 13,
+            "is_blocked": false
+        },
+        {
+            "id": 14,
+            "name": "Jamnagar",
+            "prefix": "JMN",
+            "fk_state_id": 12,
+            "is_district": true,
+            "is_township": true,
+            "fk_district_id": 14,
+            "is_blocked": false
+        },
+        {
+            "id": 15,
+            "name": "Junagadh",
+            "prefix": "JNG",
+            "fk_state_id": 12,
+            "is_district": true,
+            "is_township": true,
+            "fk_district_id": 15,
+            "is_blocked": false
+        },
+        {
+            "id": 16,
+            "name": "Kutch-Bhuj",
+            "prefix": "BHUJ",
+            "fk_state_id": 12,
+            "is_district": true,
+            "is_township": true,
+            "fk_district_id": 16,
+            "is_blocked": false
+        },
+        {
+            "id": 17,
+            "name": "Kheda-Nadiad",
+            "prefix": "ND",
+            "fk_state_id": 12,
+            "is_district": true,
+            "is_township": true,
+            "fk_district_id": 17,
+            "is_blocked": false
+        },
+        {
+            "id": 18,
+            "name": "Mahisagar-Lunavada",
+            "prefix": "MHS",
+            "fk_state_id": 12,
+            "is_district": true,
+            "is_township": true,
+            "fk_district_id": 18,
+            "is_blocked": false
+        },
+        {
+            "id": 19,
+            "name": "Mahesana",
+            "prefix": "MHS",
+            "fk_state_id": 12,
+            "is_district": true,
+            "is_township": true,
+            "fk_district_id": 19,
+            "is_blocked": false
+        },
+        {
+            "id": 20,
+            "name": "Morbi",
+            "prefix": "MOR",
+            "fk_state_id": 12,
+            "is_district": true,
+            "is_township": true,
+            "fk_district_id": 20,
+            "is_blocked": false
+        },
+        {
+            "id": 21,
+            "name": "Narmada-Rajpipla",
+            "prefix": "NAR",
+            "fk_state_id": 12,
+            "is_district": true,
+            "is_township": true,
+            "fk_district_id": 21,
+            "is_blocked": false
+        },
+        {
+            "id": 22,
+            "name": "Navsari",
+            "prefix": "NVS",
+            "fk_state_id": 12,
+            "is_district": true,
+            "is_township": true,
+            "fk_district_id": 22,
+            "is_blocked": false
+        },
+        {
+            "id": 23,
+            "name": "Panchmahal-Godhra",
+            "prefix": "PAN",
+            "fk_state_id": 12,
+            "is_district": true,
+            "is_township": true,
+            "fk_district_id": 23,
+            "is_blocked": false
+        },
+        {
+            "id": 24,
+            "name": "Patan",
+            "prefix": "PAT",
+            "fk_state_id": 12,
+            "is_district": true,
+            "is_township": true,
+            "fk_district_id": 24,
+            "is_blocked": false
+        },
+        {
+            "id": 25,
+            "name": "Porbandar",
+            "prefix": "POR",
+            "fk_state_id": 12,
+            "is_district": true,
+            "is_township": true,
+            "fk_district_id": 25,
+            "is_blocked": false
+        },
+        {
+            "id": 26,
+            "name": "Rajkot",
+            "prefix": "RJT",
+            "fk_state_id": 12,
+            "is_district": true,
+            "is_township": true,
+            "fk_district_id": 26,
+            "is_blocked": false
+        },
+        {
+            "id": 27,
+            "name": "Sabarkantha-Himatnagar",
+            "prefix": "SBK",
+            "fk_state_id": 12,
+            "is_district": true,
+            "is_township": true,
+            "fk_district_id": 27,
+            "is_blocked": false
+        },
+        {
+            "id": 28,
+            "name": "Surat",
+            "prefix": "ST",
+            "fk_state_id": 12,
+            "is_district": true,
+            "is_township": true,
+            "fk_district_id": 28,
+            "is_blocked": false
+        },
+        {
+            "id": 29,
+            "name": "Surendranagar",
+            "prefix": "SRN",
+            "fk_state_id": 12,
+            "is_district": true,
+            "is_township": true,
+            "fk_district_id": 29,
+            "is_blocked": false
+        },
+        {
+            "id": 30,
+            "name": "Tapi-Vyara",
+            "prefix": "TAP",
+            "fk_state_id": 12,
+            "is_district": true,
+            "is_township": true,
+            "fk_district_id": 30,
+            "is_blocked": false
+        },
+        {
+            "id": 31,
+            "name": "The Dangs-Ahwa",
+            "prefix": "DAN",
+            "fk_state_id": 12,
+            "is_district": true,
+            "is_township": true,
+            "fk_district_id": 31,
+            "is_blocked": false
+        },
+        {
+            "id": 32,
+            "name": "Vadodara",
+            "prefix": "BRC",
+            "fk_state_id": 12,
+            "is_district": true,
+            "is_township": true,
+            "fk_district_id": 32,
+            "is_blocked": false
+        },
+        {
+            "id": 33,
+            "name": "Valsad",
+            "prefix": "BL",
+            "fk_state_id": 12,
+            "is_district": true,
+            "is_township": true,
+            "fk_district_id": 33,
+            "is_blocked": false
+        },
+        {
+            "id": 34,
+            "name": "Limkheda",
+            "prefix": "LIM",
+            "fk_state_id": 12,
+            "is_district": false,
+            "is_township": true,
+            "fk_district_id": 10,
+            "is_blocked": false
+        },
+        {
+            "id": 35,
+            "name": "Devgadbaria",
+            "prefix": "DEV",
+            "fk_state_id": 12,
+            "is_district": false,
+            "is_township": true,
+            "fk_district_id": 10,
+            "is_blocked": false
+        },
+        {
+            "id": 36,
+            "name": "Jhalod",
+            "prefix": "JHL",
+            "fk_state_id": 12,
+            "is_district": false,
+            "is_township": true,
+            "fk_district_id": 10,
+            "is_blocked": false
+        },
+        {
+            "id": 37,
+            "name": "Fatepura",
+            "prefix": "FAT",
+            "fk_state_id": 12,
+            "is_district": false,
+            "is_township": true,
+            "fk_district_id": 10,
+            "is_blocked": false
+        },
+        {
+            "id": 38,
+            "name": "Dhanpur",
+            "prefix": "DHP",
+            "fk_state_id": 12,
+            "is_district": false,
+            "is_township": true,
+            "fk_district_id": 10,
+            "is_blocked": false
+        },
+        {
+            "id": 39,
+            "name": "Sanjeli",
+            "prefix": "SAN",
+            "fk_state_id": 12,
+            "is_district": false,
+            "is_township": true,
+            "fk_district_id": 10,
+            "is_blocked": false
+        },
+        {
+            "id": 40,
+            "name": "Singhvad",
+            "prefix": "SNG",
+            "fk_state_id": 12,
+            "is_district": false,
+            "is_township": true,
+            "fk_district_id": 10,
+            "is_blocked": false
+        },
+        {
+            "id": 41,
+            "name": "Garbada",
+            "prefix": "GAR",
+            "fk_state_id": 12,
+            "is_district": false,
+            "is_township": true,
+            "fk_district_id": 10,
+            "is_blocked": false
+        },
+        {
+            "id": 42,
+            "name": "Mandal",
+            "prefix": "MND",
+            "fk_state_id": 12,
+            "is_district": false,
+            "is_township": true,
+            "fk_district_id": 1,
+            "is_blocked": false
+        },
+        {
+            "id": 43,
+            "name": "Detroj Rampura",
+            "prefix": "DRR",
+            "fk_state_id": 12,
+            "is_district": false,
+            "is_township": true,
+            "fk_district_id": 1,
+            "is_blocked": false
+        },
+        {
+            "id": 44,
+            "name": "Viramgam",
+            "prefix": "VGM",
+            "fk_state_id": 12,
+            "is_district": false,
+            "is_township": true,
+            "fk_district_id": 1,
+            "is_blocked": false
+        },
+        {
+            "id": 45,
+            "name": "Sanand",
+            "prefix": "SAN",
+            "fk_state_id": 12,
+            "is_district": false,
+            "is_township": true,
+            "fk_district_id": 1,
+            "is_blocked": false
+        },
+        {
+            "id": 46,
+            "name": "Daskroi",
+            "prefix": "DSK",
+            "fk_state_id": 12,
+            "is_district": false,
+            "is_township": true,
+            "fk_district_id": 1,
+            "is_blocked": false
+        },
+        {
+            "id": 47,
+            "name": "Dholka",
+            "prefix": "DHL",
+            "fk_state_id": 12,
+            "is_district": false,
+            "is_township": true,
+            "fk_district_id": 1,
+            "is_blocked": false
+        },
+        {
+            "id": 48,
+            "name": "Bavla",
+            "prefix": "BAV",
+            "fk_state_id": 12,
+            "is_district": false,
+            "is_township": true,
+            "fk_district_id": 1,
+            "is_blocked": false
+        },
+        {
+            "id": 49,
+            "name": "Dhandhuka",
+            "prefix": "DHK",
+            "fk_state_id": 12,
+            "is_district": false,
+            "is_township": true,
+            "fk_district_id": 1,
+            "is_blocked": false
+        }
+    ]
+}
