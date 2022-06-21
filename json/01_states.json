@@ -1,0 +1,300 @@
+{
+    "states": [
+        {
+            "id": 2,
+            "name": "Andha Pradesh",
+            "prefix": "AP",
+            "fk_country_id": 100,
+            "is_blocked": false,
+            "union_territory": false
+        },
+        {
+            "id": 3,
+            "name": "Arunachal Pradesh",
+            "prefix": "AR",
+            "fk_country_id": 100,
+            "is_blocked": false,
+            "union_territory": false
+        },
+        {
+            "id": 4,
+            "name": "Assam",
+            "prefix": "AS",
+            "fk_country_id": 100,
+            "is_blocked": false,
+            "union_territory": false
+        },
+        {
+            "id": 5,
+            "name": "Bihar",
+            "prefix": "BR",
+            "fk_country_id": 100,
+            "is_blocked": false,
+            "union_territory": false
+        },
+        {
+            "id": 7,
+            "name": "Chattisgarh",
+            "prefix": "CG",
+            "fk_country_id": 100,
+            "is_blocked": false,
+            "union_territory": false
+        },
+        {
+            "id": 11,
+            "name": "Goa",
+            "prefix": "GA",
+            "fk_country_id": 100,
+            "is_blocked": false,
+            "union_territory": false
+        },
+        {
+            "id": 12,
+            "name": "Gujarat",
+            "prefix": "GJ",
+            "fk_country_id": 100,
+            "is_blocked": false,
+            "union_territory": false
+        },
+        {
+            "id": 13,
+            "name": "Haryana",
+            "prefix": "HR",
+            "fk_country_id": 100,
+            "is_blocked": false,
+            "union_territory": false
+        },
+        {
+            "id": 14,
+            "name": "Himachal Pradesh",
+            "prefix": "HP",
+            "fk_country_id": 100,
+            "is_blocked": false,
+            "union_territory": false
+        },
+        {
+            "id": 16,
+            "name": "Jharkhand",
+            "prefix": "JH",
+            "fk_country_id": 100,
+            "is_blocked": false,
+            "union_territory": false
+        },
+        {
+            "id": 17,
+            "name": "Karnataka",
+            "prefix": "KA",
+            "fk_country_id": 100,
+            "is_blocked": false,
+            "union_territory": false
+        },
+        {
+            "id": 18,
+            "name": "Kerala",
+            "prefix": "KL",
+            "fk_country_id": 100,
+            "is_blocked": false,
+            "union_territory": false
+        },
+        {
+            "id": 21,
+            "name": "Madhya Pradesh",
+            "prefix": "MP",
+            "fk_country_id": 100,
+            "is_blocked": false,
+            "union_territory": false
+        },
+        {
+            "id": 22,
+            "name": "Maharashtra",
+            "prefix": "MH",
+            "fk_country_id": 100,
+            "is_blocked": false,
+            "union_territory": false
+        },
+        {
+            "id": 23,
+            "name": "Manipur",
+            "prefix": "MN",
+            "fk_country_id": 100,
+            "is_blocked": false,
+            "union_territory": false
+        },
+        {
+            "id": 24,
+            "name": "Meghalaya",
+            "prefix": "ML",
+            "fk_country_id": 100,
+            "is_blocked": false,
+            "union_territory": false
+        },
+        {
+            "id": 25,
+            "name": "Mizoram",
+            "prefix": "MZ",
+            "fk_country_id": 100,
+            "is_blocked": false,
+            "union_territory": false
+        },
+        {
+            "id": 26,
+            "name": "Nagaland",
+            "prefix": "NL",
+            "fk_country_id": 100,
+            "is_blocked": false,
+            "union_territory": false
+        },
+        {
+            "id": 27,
+            "name": "Odisha",
+            "prefix": "OR",
+            "fk_country_id": 100,
+            "is_blocked": false,
+            "union_territory": false
+        },
+        {
+            "id": 29,
+            "name": "Punjab",
+            "prefix": "PB",
+            "fk_country_id": 100,
+            "is_blocked": false,
+            "union_territory": false
+        },
+        {
+            "id": 30,
+            "name": "Rajasthan",
+            "prefix": "RJ",
+            "fk_country_id": 100,
+            "is_blocked": false,
+            "union_territory": false
+        },
+        {
+            "id": 31,
+            "name": "Sikkim",
+            "prefix": "SK",
+            "fk_country_id": 100,
+            "is_blocked": false,
+            "union_territory": false
+        },
+        {
+            "id": 32,
+            "name": "Tamil Nadu",
+            "prefix": "TN",
+            "fk_country_id": 100,
+            "is_blocked": false,
+            "union_territory": false
+        },
+        {
+            "id": 33,
+            "name": "Telangana",
+            "prefix": "TG",
+            "fk_country_id": 100,
+            "is_blocked": false,
+            "union_territory": false
+        },
+        {
+            "id": 34,
+            "name": "Tripura",
+            "prefix": "TR",
+            "fk_country_id": 100,
+            "is_blocked": false,
+            "union_territory": false
+        },
+        {
+            "id": 35,
+            "name": "Uttar Pradesh",
+            "prefix": "UP",
+            "fk_country_id": 100,
+            "is_blocked": false,
+            "union_territory": false
+        },
+        {
+            "id": 36,
+            "name": "Uttarakhand",
+            "prefix": "UK",
+            "fk_country_id": 100,
+            "is_blocked": false,
+            "union_territory": false
+        },
+        {
+            "id": 37,
+            "name": "West Bengal",
+            "prefix": "WB",
+            "fk_country_id": 100,
+            "is_blocked": false,
+            "union_territory": false
+        },
+        {
+            "id": 1,
+            "name": "Andaman and Nicobar Islands",
+            "prefix": "AN",
+            "fk_country_id": 100,
+            "is_blocked": false,
+            "union_territory": true
+        },
+        {
+            "id": 6,
+            "name": "Chandigarh",
+            "prefix": "CH",
+            "fk_country_id": 100,
+            "is_blocked": false,
+            "union_territory": true
+        },
+        {
+            "id": 8,
+            "name": "Dadra and Nagar Haveli",
+            "prefix": "DN",
+            "fk_country_id": 100,
+            "is_blocked": false,
+            "union_territory": true
+        },
+        {
+            "id": 9,
+            "name": "Daman and Diu",
+            "prefix": "DD",
+            "fk_country_id": 100,
+            "is_blocked": false,
+            "union_territory": true
+        },
+        {
+            "id": 10,
+            "name": "Delhi",
+            "prefix": "DL",
+            "fk_country_id": 100,
+            "is_blocked": false,
+            "union_territory": true
+        },
+        {
+            "id": 15,
+            "name": "Jammu and Kashmir",
+            "prefix": "JK",
+            "fk_country_id": 100,
+            "is_blocked": false,
+            "union_territory": true
+        },
+        {
+            "id": 19,
+            "name": "Ladakh",
+            "prefix": "LA",
+            "fk_country_id": 100,
+            "is_blocked": false,
+            "union_territory": true
+        },
+        {
+            "id": 20,
+            "name": "Lakshadweep",
+            "prefix": "LD",
+            "fk_country_id": 100,
+            "is_blocked": false,
+            "union_territory": true
+        },
+        {
+            "id": 28,
+            "name": "Puducherry",
+            "prefix": "PY",
+            "fk_country_id": 100,
+            "is_blocked": false,
+            "union_territory": true
+        }
+    ]
+}
