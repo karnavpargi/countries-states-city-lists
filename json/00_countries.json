@@ -1,0 +1,732 @@
+{
+    "countries": [
+        {
+            "id": 1,
+            "name": "Afghanistan",
+            "prefix": "AF",
+            "isd_code": 93,
+            "is_blocked": false
+        },
+        {
+            "id": 2,
+            "name": "Albania",
+            "prefix": "AL",
+            "isd_code": 355,
+            "is_blocked": false
+        },
+        {
+            "id": 3,
+            "name": "Algeria",
+            "prefix": "DZ",
+            "isd_code": 213,
+            "is_blocked": false
+        },
+        {
+            "id": 4,
+            "name": "American Samoa",
+            "prefix": "AS",
+            "isd_code": 684,
+            "is_blocked": false
+        },
+        {
+            "id": 5,
+            "name": "Andorra",
+            "prefix": "AD",
+            "isd_code": 376,
+            "is_blocked": false
+        },
+        {
+            "id": 6,
+            "name": "Angola",
+            "prefix": "AO",
+            "isd_code": 244,
+            "is_blocked": false
+        },
+        {
+            "id": 7,
+            "name": "Anguilla",
+            "prefix": "AI",
+            "isd_code": 1264,
+            "is_blocked": false
+        },
+        {
+            "id": 8,
+            "name": "Antarctica",
+            "prefix": "AQ",
+            "isd_code": 672,
+            "is_blocked": false
+        },
+        {
+            "id": 9,
+            "name": "Antigua and Barbuda",
+            "prefix": "AG",
+            "isd_code": 1268,
+            "is_blocked": false
+        },
+        {
+            "id": 10,
+            "name": "Argentina",
+            "prefix": "AR",
+            "isd_code": 54,
+            "is_blocked": false
+        },
+        {
+            "id": 11,
+            "name": "Armenia",
+            "prefix": "AM",
+            "isd_code": 374,
+            "is_blocked": false
+        },
+        {
+            "id": 12,
+            "name": "Aruba",
+            "prefix": "AW",
+            "isd_code": 297,
+            "is_blocked": false
+        },
+        {
+            "id": 13,
+            "name": "Australia",
+            "prefix": "AU",
+            "isd_code": 61,
+            "is_blocked": false
+        },
+        {
+            "id": 14,
+            "name": "Austria",
+            "prefix": "AT",
+            "isd_code": 43,
+            "is_blocked": false
+        },
+        {
+            "id": 15,
+            "name": "Azerbaijan",
+            "prefix": "AZ",
+            "isd_code": 994,
+            "is_blocked": false
+        },
+        {
+            "id": 16,
+            "name": "Bahamas",
+            "prefix": "BS",
+            "isd_code": 1242,
+            "is_blocked": false
+        },
+        {
+            "id": 17,
+            "name": "Bahrain",
+            "prefix": "BH",
+            "isd_code": 973,
+            "is_blocked": false
+        },
+        {
+            "id": 18,
+            "name": "Bangladesh",
+            "prefix": "BD",
+            "isd_code": 880,
+            "is_blocked": false
+        },
+        {
+            "id": 19,
+            "name": "Barbados",
+            "prefix": "BB",
+            "isd_code": 1246,
+            "is_blocked": false
+        },
+        {
+            "id": 20,
+            "name": "Belarus",
+            "prefix": "BY",
+            "isd_code": 375,
+            "is_blocked": false
+        },
+        {
+            "id": 21,
+            "name": "Belgium",
+            "prefix": "BE",
+            "isd_code": 32,
+            "is_blocked": false
+        },
+        {
+            "id": 22,
+            "name": "Belize",
+            "prefix": "BZ",
+            "isd_code": 501,
+            "is_blocked": false
+        },
+        {
+            "id": 23,
+            "name": "Benin",
+            "prefix": "BJ",
+            "isd_code": 229,
+            "is_blocked": false
+        },
+        {
+            "id": 24,
+            "name": "Bermuda",
+            "prefix": "BM",
+            "isd_code": 1441,
+            "is_blocked": false
+        },
+        {
+            "id": 25,
+            "name": "Bhutan",
+            "prefix": "BT",
+            "isd_code": 975,
+            "is_blocked": false
+        },
+        {
+            "id": 26,
+            "name": "Bolivia",
+            "prefix": "BO",
+            "isd_code": 591,
+            "is_blocked": false
+        },
+        {
+            "id": 27,
+            "name": "Bosnia and Herzegovina",
+            "prefix": "BA",
+            "isd_code": 387,
+            "is_blocked": false
+        },
+        {
+            "id": 28,
+            "name": "Botswana",
+            "prefix": "BW",
+            "isd_code": 267,
+            "is_blocked": false
+        },
+        {
+            "id": 29,
+            "name": "Brazil",
+            "prefix": "BR",
+            "isd_code": 55,
+            "is_blocked": false
+        },
+        {
+            "id": 30,
+            "name": "British Indian Ocean Territory",
+            "prefix": "IO",
+            "isd_code": 246,
+            "is_blocked": false
+        },
+        {
+            "id": 31,
+            "name": "Brunei Darussalam",
+            "prefix": "BN",
+            "isd_code": 673,
+            "is_blocked": false
+        },
+        {
+            "id": 32,
+            "name": "Bulgaria",
+            "prefix": "BG",
+            "isd_code": 359,
+            "is_blocked": false
+        },
+        {
+            "id": 33,
+            "name": "Burkina Faso",
+            "prefix": "BF",
+            "isd_code": 226,
+            "is_blocked": false
+        },
+        {
+            "id": 34,
+            "name": "Burundi",
+            "prefix": "BI",
+            "isd_code": 257,
+            "is_blocked": false
+        },
+        {
+            "id": 35,
+            "name": "Cabo Verde",
+            "prefix": "CV",
+            "isd_code": 238,
+            "is_blocked": false
+        },
+        {
+            "id": 36,
+            "name": "Cambodia",
+            "prefix": "KH",
+            "isd_code": 855,
+            "is_blocked": false
+        },
+        {
+            "id": 37,
+            "name": "Cameroon",
+            "prefix": "CM",
+            "isd_code": 237,
+            "is_blocked": false
+        },
+        {
+            "id": 38,
+            "name": "Canada",
+            "prefix": "CA",
+            "isd_code": 1,
+            "is_blocked": false
+        },
+        {
+            "id": 39,
+            "name": "Cayman Islands",
+            "prefix": "KY",
+            "isd_code": 1345,
+            "is_blocked": false
+        },
+        {
+            "id": 40,
+            "name": "Central African Republic",
+            "prefix": "CF",
+            "isd_code": 236,
+            "is_blocked": false
+        },
+        {
+            "id": 41,
+            "name": "Chad",
+            "prefix": "TD",
+            "isd_code": 235,
+            "is_blocked": false
+        },
+        {
+            "id": 42,
+            "name": "Chile",
+            "prefix": "CL",
+            "isd_code": 56,
+            "is_blocked": false
+        },
+        {
+            "id": 43,
+            "name": "China",
+            "prefix": "CN",
+            "isd_code": 86,
+            "is_blocked": false
+        },
+        {
+            "id": 44,
+            "name": "Christmas Island",
+            "prefix": "CX",
+            "isd_code": 61,
+            "is_blocked": false
+        },
+        {
+            "id": 45,
+            "name": "Cocos (Keeling) Islands",
+            "prefix": "CC",
+            "isd_code": 61,
+            "is_blocked": false
+        },
+        {
+            "id": 46,
+            "name": "Colombia",
+            "prefix": "CO",
+            "isd_code": 57,
+            "is_blocked": false
+        },
+        {
+            "id": 47,
+            "name": "Comoros",
+            "prefix": "KM",
+            "isd_code": 269,
+            "is_blocked": false
+        },
+        {
+            "id": 48,
+            "name": "Congo",
+            "prefix": "CG",
+            "isd_code": 242,
+            "is_blocked": false
+        },
+        {
+            "id": 49,
+            "name": "Congo, the Democratic Republic of the",
+            "prefix": "CD",
+            "isd_code": 243,
+            "is_blocked": false
+        },
+        {
+            "id": 50,
+            "name": "Cook Islands",
+            "prefix": "CK",
+            "isd_code": 682,
+            "is_blocked": false
+        },
+        {
+            "id": 51,
+            "name": "Costa Rica",
+            "prefix": "CR",
+            "isd_code": 506,
+            "is_blocked": false
+        },
+        {
+            "id": 52,
+            "name": "Côte d\"Ivoire",
+            "prefix": "CI",
+            "isd_code": 225,
+            "is_blocked": false
+        },
+        {
+            "id": 53,
+            "name": "Croatia",
+            "prefix": "HR",
+            "isd_code": 385,
+            "is_blocked": false
+        },
+        {
+            "id": 54,
+            "name": "Cuba",
+            "prefix": "CU",
+            "isd_code": 53,
+            "is_blocked": false
+        },
+        {
+            "id": 55,
+            "name": "Curaçao",
+            "prefix": "CW",
+            "isd_code": 599,
+            "is_blocked": false
+        },
+        {
+            "id": 56,
+            "name": "Cyprus",
+            "prefix": "CY",
+            "isd_code": 357,
+            "is_blocked": false
+        },
+        {
+            "id": 57,
+            "name": "Czechia",
+            "prefix": "CZ",
+            "isd_code": 420,
+            "is_blocked": false
+        },
+        {
+            "id": 58,
+            "name": "Denmark",
+            "prefix": "DK",
+            "isd_code": 45,
+            "is_blocked": false
+        },
+        {
+            "id": 59,
+            "name": "Djibouti",
+            "prefix": "DJ",
+            "isd_code": 253,
+            "is_blocked": false
+        },
+        {
+            "id": 60,
+            "name": "Dominica",
+            "prefix": "DM",
+            "isd_code": 1767,
+            "is_blocked": false
+        },
+        {
+            "id": 61,
+            "name": "Dominican Republic",
+            "prefix": "DO",
+            "isd_code": 1809,
+            "is_blocked": false
+        },
+        {
+            "id": 62,
+            "name": "DR Congo",
+            "prefix": "CD",
+            "isd_code": 243,
+            "is_blocked": false
+        },
+        {
+            "id": 63,
+            "name": "Ecuador",
+            "prefix": "EC",
+            "isd_code": 593,
+            "is_blocked": false
+        },
+        {
+            "id": 64,
+            "name": "Egypt",
+            "prefix": "EG",
+            "isd_code": 20,
+            "is_blocked": false
+        },
+        {
+            "id": 65,
+            "name": "El Salvador",
+            "prefix": "SV",
+            "isd_code": 503,
+            "is_blocked": false
+        },
+        {
+            "id": 66,
+            "name": "Equatorial Guinea",
+            "prefix": "GQ",
+            "isd_code": 240,
+            "is_blocked": false
+        },
+        {
+            "id": 67,
+            "name": "Eritrea",
+            "prefix": "ER",
+            "isd_code": 291,
+            "is_blocked": false
+        },
+        {
+            "id": 68,
+            "name": "Estonia",
+            "prefix": "EE",
+            "isd_code": 372,
+            "is_blocked": false
+        },
+        {
+            "id": 69,
+            "name": "Ethiopia",
+            "prefix": "ET",
+            "isd_code": 251,
+            "is_blocked": false
+        },
+        {
+            "id": 70,
+            "name": "Falkland Islands (Malvinas)",
+            "prefix": "FK",
+            "isd_code": 500,
+            "is_blocked": false
+        },
+        {
+            "id": 71,
+            "name": "Faroe Islands",
+            "prefix": "FO",
+            "isd_code": 298,
+            "is_blocked": false
+        },
+        {
+            "id": 72,
+            "name": "Fiji",
+            "prefix": "FJ",
+            "isd_code": 679,
+            "is_blocked": false
+        },
+        {
+            "id": 73,
+            "name": "Finland",
+            "prefix": "FI",
+            "isd_code": 358,
+            "is_blocked": false
+        },
+        {
+            "id": 74,
+            "name": "France",
+            "prefix": "FR",
+            "isd_code": 33,
+            "is_blocked": false
+        },
+        {
+            "id": 75,
+            "name": "French Guiana",
+            "prefix": "GF",
+            "isd_code": 594,
+            "is_blocked": false
+        },
+        {
+            "id": 76,
+            "name": "French Polynesia",
+            "prefix": "PF",
+            "isd_code": 689,
+            "is_blocked": false
+        },
+        {
+            "id": 77,
+            "name": "French Southern Territories",
+            "prefix": "TF",
+            "isd_code": 0,
+            "is_blocked": false
+        },
+        {
+            "id": 78,
+            "name": "Gabon",
+            "prefix": "GA",
+            "isd_code": 241,
+            "is_blocked": false
+        },
+        {
+            "id": 79,
+            "name": "Gambia",
+            "prefix": "GM",
+            "isd_code": 220,
+            "is_blocked": false
+        },
+        {
+            "id": 80,
+            "name": "Georgia",
+            "prefix": "GE",
+            "isd_code": 995,
+            "is_blocked": false
+        },
+        {
+            "id": 81,
+            "name": "Germany",
+            "prefix": "DE",
+            "isd_code": 49,
+            "is_blocked": false
+        },
+        {
+            "id": 82,
+            "name": "Ghana",
+            "prefix": "GH",
+            "isd_code": 233,
+            "is_blocked": false
+        },
+        {
+            "id": 83,
+            "name": "Gibraltar",
+            "prefix": "GI",
+            "isd_code": 350,
+            "is_blocked": false
+        },
+        {
+            "id": 84,
+            "name": "Greece",
+            "prefix": "GR",
+            "isd_code": 30,
+            "is_blocked": false
+        },
+        {
+            "id": 85,
+            "name": "Greenland",
+            "prefix": "GL",
+            "isd_code": 299,
+            "is_blocked": false
+        },
+        {
+            "id": 86,
+            "name": "Grenada",
+            "prefix": "GD",
+            "isd_code": 1473,
+            "is_blocked": false
+        },
+        {
+            "id": 87,
+            "name": "Guatemala",
+            "prefix": "GT",
+            "isd_code": 502,
+            "is_blocked": false
+        },
+        {
+            "id": 88,
+            "name": "Guinea",
+            "prefix": "GN",
+            "isd_code": 224,
+            "is_blocked": false
+        },
+        {
+            "id": 89,
+            "name": "Guinea-Bissau",
+            "prefix": "GW",
+            "isd_code": 245,
+            "is_blocked": false
+        },
+        {
+            "id": 90,
+            "name": "Guadeloupe",
+            "prefix": "GP",
+            "isd_code": 590,
+            "is_blocked": false
+        },
+        {
+            "id": 91,
+            "name": "Guam",
+            "prefix": "GU",
+            "isd_code": 1671,
+            "is_blocked": false
+        },
+        {
+            "id": 92,
+            "name": "Guyana",
+            "prefix": "GY",
+            "isd_code": 592,
+            "is_blocked": false
+        },
+        {
+            "id": 93,
+            "name": "Haiti",
+            "prefix": "HT",
+            "isd_code": 509,
+            "is_blocked": false
+        },
+        {
+            "id": 94,
+            "name": "Heard Island and McDonald Islands",
+            "prefix": "HM",
+            "isd_code": 0,
+            "is_blocked": false
+        },
+        {
+            "id": 95,
+            "name": "Holy See (Vatican City State)",
+            "prefix": "VA",
+            "isd_code": 39,
+            "is_blocked": false
+        },
+        {
+            "id": 96,
+            "name": "Honduras",
+            "prefix": "HN",
+            "isd_code": 504,
+            "is_blocked": false
+        },
+        {
+            "id": 97,
+            "name": "Hong Kong",
+            "prefix": "HK",
+            "isd_code": 852,
+            "is_blocked": false
+        },
+        {
+            "id": 98,
+            "name": "Hungary",
+            "prefix": "HU",
+            "isd_code": 36,
+            "is_blocked": false
+        },
+        {
+            "id": 99,
+            "name": "Iceland",
+            "prefix": "IS",
+            "isd_code": 354,
+            "is_blocked": false
+        },
+        {
+            "id": 100,
+            "name": "India",
+            "prefix": "IN",
+            "isd_code": 91,
+            "is_blocked": false
+        },
+        {
+            "id": 101,
+            "name": "Indonesia",
+            "prefix": "ID",
+            "isd_code": 62,
+            "is_blocked": false
+        },
+        {
+            "id": 102,
+            "name": "Iran",
+            "prefix": "IR",
+            "isd_code": 98,
+            "is_blocked": false
+        },
+        {
+            "id": 103,
+            "name": "Iraq",
+            "prefix": "IQ",
+            "isd_code": 964,
+            "is_blocked": false
+        },
+        {
+            "id": 104,
+            "name": "Ireland",
+            "prefix": "IE",
+            "isd_code": 353,
+            "is_blocked": false
+        }
+    ]
+}
